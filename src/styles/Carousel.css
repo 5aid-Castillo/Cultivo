@@ -1,0 +1,28 @@
+.carousel, .carousel-item > img{
+    margin: 0 auto;
+    height: 60vh;
+    width: 100vw;
+}
+.render-image{
+    filter: opacity(70%);
+    object-fit: fill;
+}
+
+.welcome{
+    color: var(--first-color);
+    font-weight: bold;
+    -webkit-text-stroke: 1px white;  
+}
+.platillos{
+    object-fit:  cover;
+}
+.presentacion{
+    object-fit: fill;
+}
+@media screen and (min-width:1024px){
+    .carousel, .carousel-item > img{
+        margin:0 auto;
+        height: 60vh;
+        width: 60vw;
+    }
+}

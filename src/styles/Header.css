@@ -1,0 +1,70 @@
+.me-auto a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.me-auto a:hover{
+    color: rgba(255, 255, 255, 0.5);;
+}
+.logo{
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+.navigation{
+    position: static;
+}
+
+.reserva a{
+    color: gold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.reserva a:hover{
+    color: var(--second-color);
+}
+
+@media screen and (min-width:940px){
+    .me-auto a{
+        margin-left: 1rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 999;
+    padding: 0.5rem;
+    width: 100%;
+    height: 3.7rem;
+    background-color:var(--first-color);
+}
+.logo > a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+
+@media screen and (min-width:1024px){
+    
+    .logo > a{
+        display: none;
+    }
+} */
