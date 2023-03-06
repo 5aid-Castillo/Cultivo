@@ -2,6 +2,7 @@
   "name": "cultivo",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://5aid-Castillo.github.io/Cultivo",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
@@ -20,6 +21,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "node-sass": "^7.0.3"
   }
 }
