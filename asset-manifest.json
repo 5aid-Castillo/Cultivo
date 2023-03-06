@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Cultivo/static/css/main.a0cb2379.css",
+    "main.js": "/Cultivo/static/js/main.4dc3c510.js",
+    "static/js/787.d6d5d6e6.chunk.js": "/Cultivo/static/js/787.d6d5d6e6.chunk.js",
+    "static/media/rest16.jpg": "/Cultivo/static/media/rest16.848f69b6b378178609c4.jpg",
+    "static/media/rest5.jpg": "/Cultivo/static/media/rest5.47136681fb1022f662ea.jpg",
+    "static/media/timbre.jpg": "/Cultivo/static/media/timbre.a2b750fceb14269c4009.jpg",
+    "static/media/platillo1.jpg": "/Cultivo/static/media/platillo1.250bdb5fb7e51d3dfa64.jpg",
+    "static/media/rest13.jpg": "/Cultivo/static/media/rest13.8de47afe45727db0ae4a.jpg",
+    "static/media/rest14.jpg": "/Cultivo/static/media/rest14.a40eb446f02c42261565.jpg",
+    "static/media/rest6.jpg": "/Cultivo/static/media/rest6.edbf3083c35864368d0d.jpg",
+    "static/media/platillos.jpg": "/Cultivo/static/media/platillos.9c238d994427bb06cd0f.jpg",
+    "static/media/rest11.jpg": "/Cultivo/static/media/rest11.d64259600c8a5fadb6f8.jpg",
+    "static/media/rest8.jpg": "/Cultivo/static/media/rest8.6ee162aea7819e538f43.jpg",
+    "static/media/vaso1.jpg": "/Cultivo/static/media/vaso1.d5bfb7effbb78a5055fb.jpg",
+    "static/media/barra.jpg": "/Cultivo/static/media/barra.4de5588079770781d0bd.jpg",
+    "static/media/rest4.jpg": "/Cultivo/static/media/rest4.cf88ba6a6b4515a77d41.jpg",
+    "static/media/abierto.png": "/Cultivo/static/media/abierto.3d5f51ea13749696b98c.png",
+    "static/media/marcador.png": "/Cultivo/static/media/marcador.64cdcb0ef97818161310.png",
+    "static/media/cultivo.jpg": "/Cultivo/static/media/cultivo.9b44cffedbc814d20642.jpg",
+    "index.html": "/Cultivo/index.html",
+    "main.a0cb2379.css.map": "/Cultivo/static/css/main.a0cb2379.css.map",
+    "main.4dc3c510.js.map": "/Cultivo/static/js/main.4dc3c510.js.map",
+    "787.d6d5d6e6.chunk.js.map": "/Cultivo/static/js/787.d6d5d6e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0cb2379.css",
+    "static/js/main.4dc3c510.js"
+  ]
+}
